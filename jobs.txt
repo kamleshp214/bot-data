@@ -1,2 +1,22 @@
-Software Engineer | Google | Remote | Apply Here
-Data Analyst | Amazon | New York | Apply Here
+| Role | Company | Location | Link |
+|---|---|---|---|
+| Senior Software Engineer | Flipkart | Bangalore, India | [Apply Now](https://www.flipkartcareers.com/) |
+| Product Manager | Paytm | Noida, India | [View Job](https://paytm.com/careers) |
+| Backend Developer (Java) | Zoho | Chennai, India | [Apply Here](https://www.zoho.com/careers/) |
+| Data Scientist | Myntra | Bangalore, India | [Check Role](https://careers.myntra.com/) |
+| DevOps Engineer | Swiggy | Remote (India) | [Apply Now](https://careers.swiggy.com/) |
+| React Native Developer | Zomato | Gurgaon, India | [Apply Here](https://www.zomato.com/careers) |
+| Full Stack Developer | TCS | Mumbai, India | [View Openings](https://www.tcs.com/careers) |
+| AI/ML Engineer | Infosys | Pune, India | [Apply Now](https://www.infosys.com/careers/) |
+| Cloud Architect | Wipro | Hyderabad, India | [Apply Here](https://careers.wipro.com/) |
+| Android Developer | PhonePe | Bangalore, India | [Check Job](https://www.phonepe.com/careers/) |
+| QA Automation Engineer | Ola | Bangalore, India | [Apply Now](https://olacabs.com/careers) |
+| System Administrator | HCL Tech | Noida, India | [View Job](https://www.hcltech.com/careers) |
+| UX/UI Designer | Razorpay | Bangalore, India | [Apply Here](https://razorpay.com/jobs/) |
+| Cybersecurity Analyst | Jio | Mumbai, India | [Apply Now](https://careers.jio.com/) |
+| Blockchain Developer | Polygon | Remote (India) | [View Role](https://polygon.technology/careers) |
+| GoLang Developer | Gojek | Bangalore, India | [Apply Here](https://www.gojek.io/careers) |
+| Technical Lead | Tech Mahindra | Pune, India | [Check Job](https://careers.techmahindra.com/) |
+| Business Analyst | Deloitte | Hyderabad, India | [Apply Now](https://www2.deloitte.com/in/en/careers.html) |
+| HR Manager | Udaan | Bangalore, India | [View Job](https://udaan.com/careers) |
+| Marketing Associate | Cred | Bangalore, India | [Apply Here](https://cred.club/careers) |
